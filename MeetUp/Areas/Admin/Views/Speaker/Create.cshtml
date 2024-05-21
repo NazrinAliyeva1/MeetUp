@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+
+}
+
+@model CreateSpeakerVM
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Title">Title</label>
+        <input asp-for="Title" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="FaceBookImage">FaceBookImage</label>
+        <input asp-for="FaceBookImage" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="TwitterImage">TwitterImage</label>
+        <input asp-for ="TwitterImage" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="FaceBookImage">FaceBookImage</label>
+        <input asp-for="FaceBookImage" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label asp-for="InImage">InImage</label>
+        <input asp-for="InImage" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

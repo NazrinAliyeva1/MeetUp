@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\MeetUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|c:\\users\\99455\\source\\repos\\meetup\\meetup\\viewmodels\\speakers\\getspeakervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\viewmodels\\speakers\\getspeakervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\controllers\\speakercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\viewmodels\\speakers\\getspeakeradminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\viewmodels\\speakers\\getspeakeradminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|c:\\users\\99455\\source\\repos\\meetup\\meetup\\viewmodels\\speakers\\createspeakervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\viewmodels\\speakers\\createspeakervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\areas\\admin\\views\\speaker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\speaker\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\speaker\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|c:\\users\\99455\\source\\repos\\meetup\\meetup\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\meetup.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\meetup.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\models\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\models\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\dataacceslayer\\meetupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\dataacceslayer\\meetupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|C:\\Users\\99455\\source\\repos\\MeetUp\\meetup\\migrations\\20240521113744_speakerstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D19ACF9-1B4B-4E20-B0C4-0818932EF014}|MeetUp\\MeetUp.csproj|solutionrelative:meetup\\migrations\\20240521113744_speakerstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:17:02.791Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Program.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Program.cs",
+              "RelativeToolTip": "MeetUp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:50:36.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetSpeakerVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ViewModels\\Speakers\\GetSpeakerVM.cs",
+              "RelativeDocumentMoniker": "MeetUp\\ViewModels\\Speakers\\GetSpeakerVM.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ViewModels\\Speakers\\GetSpeakerVM.cs",
+              "RelativeToolTip": "MeetUp\\ViewModels\\Speakers\\GetSpeakerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:52:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSpeakerVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "RelativeDocumentMoniker": "MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "RelativeToolTip": "MeetUp\\ViewModels\\Speakers\\CreateSpeakerVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:51:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MeetUp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MeetUp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T15:24:46.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MeetUp",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\MeetUp.csproj",
+              "RelativeDocumentMoniker": "MeetUp\\MeetUp.csproj",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\MeetUp.csproj",
+              "RelativeToolTip": "MeetUp\\MeetUp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T15:24:42.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\appsettings.json",
+              "RelativeDocumentMoniker": "MeetUp\\appsettings.json",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\appsettings.json",
+              "RelativeToolTip": "MeetUp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T15:24:29.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MeetUp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MeetUp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T15:24:18.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:19:40.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSpeakerAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ViewModels\\Speakers\\GetSpeakerAdminVM.cs",
+              "RelativeDocumentMoniker": "MeetUp\\ViewModels\\Speakers\\GetSpeakerAdminVM.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\ViewModels\\Speakers\\GetSpeakerAdminVM.cs",
+              "RelativeToolTip": "MeetUp\\ViewModels\\Speakers\\GetSpeakerAdminVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:59:25.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:39:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:29:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Models\\Speaker.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Models\\Speaker.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Models\\Speaker.cs",
+              "RelativeToolTip": "MeetUp\\Models\\Speaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:22:33.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MeetUpContext.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\DataAccesLayer\\MeetUpContext.cs",
+              "RelativeDocumentMoniker": "MeetUp\\DataAccesLayer\\MeetUpContext.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\DataAccesLayer\\MeetUpContext.cs",
+              "RelativeToolTip": "MeetUp\\DataAccesLayer\\MeetUpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:22:10.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeetUp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:21:58.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:21:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MeetUp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:13:35.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\Speaker\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T13:53:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240521113744_SpeakersTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Migrations\\20240521113744_SpeakersTableCreated.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Migrations\\20240521113744_SpeakersTableCreated.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Migrations\\20240521113744_SpeakersTableCreated.cs",
+              "RelativeToolTip": "MeetUp\\Migrations\\20240521113744_SpeakersTableCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:38:29.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:29:14.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:29:11.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeakerController.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "RelativeDocumentMoniker": "MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\MeetUp\\MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "RelativeToolTip": "MeetUp\\Areas\\Admin\\Controllers\\SpeakerController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:16:38.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
